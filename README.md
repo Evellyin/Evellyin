@@ -1,12 +1,5 @@
 ![Evellyin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evellyin&show_icons=true&theme=dracula)
 
-## 𝓢𝓸𝓬𝓲𝓪𝓵𝓼 ~
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evellyinhelenoir/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/evellyin.helenoir.7)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EHelenoir)
-[![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white)](https://derwaldme.tumblr.com/)
-
 ## 𝓣𝓮𝓬𝓷𝓸𝓵𝓸𝓰𝓲𝓮𝓼 ~
 
 <div style="display: inline_block"><br/>
@@ -37,6 +30,12 @@
 </div>
 
 <div style="display: inline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+</div>
+
+<div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
@@ -54,22 +53,9 @@
 </div>
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</div>
-
-<div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 </div><br/>
 
 [![Evellyin's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Evellyin&bg_color=282a36&color=ffffff&line=dd6387&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 𝓐𝓵𝓼𝓸 𝓦𝓸𝓻𝓴𝓮𝓭 𝓦𝓲𝓽𝓱 ~
-- ### Mockito
-- ### Mock
-- ### Docker
-- ### Swagger
-- ### JUnit
 
