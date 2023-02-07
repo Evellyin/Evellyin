@@ -1,7 +1,5 @@
 ![Evellyin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evellyin&show_icons=true&theme=dracula)
 
-[![Evellyin's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Evellyin&bg_color=131010&color=a45675&line=cd3c60&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 𝓢𝓸𝓬𝓲𝓪𝓵𝓼 ~
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evellyinhelenoir/)
@@ -66,9 +64,12 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 </div><br/>
 
+[![Evellyin's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Evellyin&bg_color=282a36&color=ffffff&line=dd6387&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 𝓐𝓵𝓼𝓸 𝓦𝓸𝓻𝓴𝓮𝓭 𝓦𝓲𝓽𝓱 ~
 - ### Mockito
 - ### Mock
 - ### Docker
 - ### Swagger
 - ### JUnit
+
