@@ -1,4 +1,6 @@
-![Evellyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evellyin&show_icons=true&theme=dracula)
+![Evellyin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evellyin&show_icons=true&theme=dracula)
+
+[![Evellyin's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Evellyin&bg_color=131010&color=a45675&line=cd3c60&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 𝓢𝓸𝓬𝓲𝓪𝓵𝓼 ~
 
