@@ -58,5 +58,3 @@
     <img align="center" alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 </div><br/>
 
-[![Rafael Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RafaelMessiasNunes&bg_color=282a36&color=ffffff&line=dd6387&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
